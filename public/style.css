@@ -1,0 +1,33 @@
+body {
+    background-color: grey;
+}
+
+.importante_color {
+    color: white;
+}
+
+.nota {
+    background-color: #F2EECB;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    margin: 2px;
+}
+
+.nota_importante {
+    background-color: #fb5f5f;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    margin: 2px;
+}
+
+.notas_container {
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 100%;
+}
